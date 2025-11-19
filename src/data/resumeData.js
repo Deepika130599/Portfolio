@@ -23,10 +23,10 @@ const resumeData = {
 
   experience: [
     {
-      title: "Engineer",
+      title: "Python Full Stack Developer",
       company: "Teleflex",
       location: "Morrisville, NC",
-      period: "Jul 2024 - Jun 2025",
+      period: "Oct 2023 - Jun 2025",
       bullets: [
         "Developed responsive React frontend applications with Redux state management, implementing dynamic user interfaces with component-based architecture and ensuring seamless integration with Django backend APIs",
         "Engineered and developed 30+ RESTful APIs using Django REST framework integrated with AWS services (S3, RDS), contributing to a microservices architecture that reduced data processing latency by 40%",
@@ -49,7 +49,7 @@ const resumeData = {
       skills: ["Python", "SQL", "Data Analysis", "Tableau", "Database Optimization"]
     },
     {
-      title: "React Full Stack Developer",
+      title: "Python Software Engineer",
       company: "Sony",
       location: "",
       period: "May 2022 – Jun 2023",
@@ -62,16 +62,28 @@ const resumeData = {
       skills: ["React", "JavaScript", "Django", "APIs", "Component Design", "UI Performance"]
     },
     {
-      title: "Frontend Engineer",
+      title: "Full Stack Python Developer",
       company: "Ignitarium",
       location: "Bengaluru, Karnataka",
-      period: "Aug 2019 – Jun 2023",
+      period: "Aug 2021 – Jun 2023",
       bullets: [
         "Developed and maintained dynamic UI components using React, Redux, and JavaScript for AI-powered visual defect identification tools.",
         "Collaborated with the deep learning team to integrate frontend interfaces with defect detection models, improving system usability.",
         "Optimized performance and responsiveness using lazy loading and state management."
       ],
       skills: ["React", "Redux", "JavaScript", "UI Components", "Performance Optimization", "AI Integration"]
+    },
+    {
+      title: "Full Stack Developer",
+      company: "Nata Consultancy Services",
+      location: "Hyderabad, Telangana",
+      period: "Aug 2019 – Jul 2021",
+      bullets: [
+        "Designed and developed the server module, resolved issues, and was responsible for its enhancements.",
+        "Developed Node.js microservices for real-time features and integrated them with existing Python backend systems.",
+        "Built reusable React components with JSX, Props, States, Lifecycle methods, and Hooks for dynamic UI."
+      ],
+      skills: ["React", "Redux", "Node JS", "GitHub", "VS Code"]
     }
   ],
   projects: [
